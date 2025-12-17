@@ -1,0 +1,6 @@
+imdb_bert_model/
+*.bin
+*.zip
+results/
+__pycache__/
+.ipynb_checkpoints/
