@@ -2,6 +2,9 @@
 
 This project applies **fine-tuning of DistilBERT** on the **IMDB dataset (50,000 reviews)**
 to perform **binary sentiment classification (positive / negative)**.
+## 🖥️ Demo Interface
+
+![IMDB Sentiment Analyzer](screenshots/demo.png)
 
 ## 🧠 Model
 - Transformer: distilbert-base-uncased
